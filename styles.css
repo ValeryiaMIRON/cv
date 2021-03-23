@@ -16,7 +16,7 @@ body {
 
   .page-footer .container,
   .page-header .container {
-    min-width: 1408px;
+    max-width: 1440px;
     text-align: right;
     background-color: rgb(247, 247, 231);
   }
@@ -40,7 +40,7 @@ body {
   }
   
   .hero-image .container {
-    max-width: 1408px;
+    max-width: 1440px;
     text-align: center;
     color: #fea18d;
   }
@@ -77,6 +77,9 @@ color: beige;
     font-size: 20px;
     padding-bottom: 5px;
     color: #fea18d;
+  }
+  .github{
+    color: bisque;
   }
   
   
