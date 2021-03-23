@@ -16,7 +16,7 @@ body {
 
   .page-footer .container,
   .page-header .container {
-    max-width: 1440px;
+    max-width: 1600px;
     text-align: right;
     background-color: rgb(247, 247, 231);
   }
@@ -78,7 +78,7 @@ color: beige;
     padding-bottom: 5px;
     color: #fea18d;
   }
-  .github{
+  .github {
     color: bisque;
   }
   
